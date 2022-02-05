@@ -8,7 +8,7 @@
 int _abs(int a)
 {
 if (a < 0)
-retun (a = -a);
+return (a = -a);
 else 
 return (a);
 }
