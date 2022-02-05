@@ -24,7 +24,7 @@ printf("%d, ", n);
 }
 else
 {
-printf("%d\n, ", n);
+printf("%d\n", n);
 return;
 }
 printf("98\n");
