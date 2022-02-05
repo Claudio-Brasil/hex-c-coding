@@ -21,7 +21,7 @@ _putchar(n / 10 + '0');
 }
 else if (b != 0)
 {
-_putcahr(' ');
+_putchar(' ');
 }
 _putchar(n % 10 + '0');
 if (b != 9)
