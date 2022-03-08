@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
-* main - prints numbers 1-100 with fizz buzz replacing multiples of 3 and 5 respectvely
+* main - prints numbers 1-100 with fizz buzz replacing multiples of 3 and 5
 * Return: 0 for success
 */
 int main(void)
