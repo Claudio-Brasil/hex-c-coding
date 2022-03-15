@@ -1,7 +1,12 @@
-#include<stdio.h>
+#include "holberton"
 
-int main(void)
+/**
+ * reset_to_98 - points int n to 98
+ * @n: integer 98
+ *Return: void
+ */
+
+void reset_to_98(int *n)
 {
-  printf("Ola Joao");
-  return 0;
+*n = 98;
 }
