@@ -5,11 +5,7 @@
  * @n: integer 98
  * Return: void
  */
-
-#include<stdio.h>
-
-int main(void)
+void reset_to_98(int *n)
 {
-  printf("Ola Joao");
-  return 0;
+*n = 98;
 }
