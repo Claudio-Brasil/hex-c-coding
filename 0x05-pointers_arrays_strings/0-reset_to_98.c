@@ -6,9 +6,10 @@
  * Return: void
  */
 
-void reset_to_98(int *n)
+#include<stdio.h>
+
+int main(void)
 {
-
-*n = 98;
-
+  printf("Ola Joao");
+  return 0;
 }
